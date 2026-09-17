@@ -1,0 +1,6 @@
+{
+  "name": "File Manager Pro",
+  "description": "A premium, fast, and feature-complete offline file manager for Android with storage analysis, ZIP archiving, media preview, and robust file operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
